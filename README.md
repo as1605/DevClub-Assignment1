@@ -15,6 +15,20 @@ Create a webpage for users to get information and guidelines about covid
 
 A [Figma prototype](https://www.figma.com/proto/12aCPysPYYkU0YrhjdOS7e/CovidGuide) has been provided for reference, along with the [Figma source file](https://www.figma.com/file/12aCPysPYYkU0YrhjdOS7e/CovidGuide) for the design. Use the [drive link](https://csciitd-my.sharepoint.com/:f:/g/personal/tt1201099_iitd_ac_in/EtUO6IwxaxNLkX_5PQQisZYBYjcEJP6sAed_DZI2evf3NQ?e=M8xTKO) to download the image files
 
+## Bonus Task!
+- Create a new branch `bonus` in your fork of this repo. This bonus task has to be done on the `bonus` branch only, while the main task stays on the `main` branch (do *not* merge them)
+- Put your IIT Delhi email for contact in the footer, and use [mailto](https://en.wikipedia.org/wiki/Mailto) to give pre-filled subject and body for the query. For example, the subject may be initialized with `Query regarding CovidGuide`, and the body with `Hey! I visited your website and had a query...`
+- Add a [favicon](https://en.wikipedia.org/wiki/Favicon) to your website
+- Embed a Google Map of hospitals near IIT Delhi
+- Make the website responsive, so it looks good on mobile screens
+- Feel free to show your creativity in the design!
+- You can use the CSS frameworks [Materialize](https://materializecss.com/) or [Tailwind](https://tailwindui.com/) (but *not* Bootstrap)
+- You can use [Animate on Scroll](https://michalsnik.github.io/aos/) or [Vanta](https://www.vantajs.com/) too!
+- Deploy this `bonus` branch using [Firebase Static Hosting](https://firebase.google.com/docs/hosting/github-integration), set up the GitHub Action such that the site should be rebuilt each time you push a commit to the repo. Finally, put the URL in the description (`About > Website`) for your fork of this repo. The URL should look something like `https://*.web.app/index.html` (where `*` can be your choice)
+
+Use CDN option for including any libraries/frameworks. 
+Please take only free subscriptions wherever applicable, using any paid features for the assignments is not allowed.
+
 ## Submission Instructions
 - First create your GitHub account. You can use your personal email id for it.
 - **FORK** this repository, by clicking the "Fork" button on top right.
