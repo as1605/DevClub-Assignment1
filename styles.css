@@ -1,0 +1,131 @@
+#a{
+     color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: x-large;
+}
+#b{
+    
+    color: #000000;
+    text-decoration: none;
+    font-size: x-large;
+
+}
+#c{
+   
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: x-large;
+}
+#d{
+    
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: x-large;
+}
+#e{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: x-large;
+}
+
+#navbar{
+    margin-left: 600px;
+}
+
+#homepage{
+    background-image: url(https://github.com/ris04hit/DevClub-Assignment1/blob/main/Virus-rafiki%201.png?raw=true);
+    background-size: 3000px 1000px;
+    background-position-x: -450px;
+    background-position-y:-200px ;
+    background-color: rgb(218, 176, 161);
+    border-style: dotted;
+    border-color:rgb(0, 0, 0);
+    
+}
+
+#tips{
+    margin-top: 50px;
+    font-size: x-large;
+    font-family: 'Dongle', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-left: 200px;
+}
+#header_text {
+    margin-left: 0px;
+    margin-top: 600px;
+    font-size: xx-large;
+}
+#header_text1{
+    
+    font-size:xx-large;
+    margin-top: 200px;
+}
+#page2{
+    background-color: rgb(173, 132, 209);
+}
+#tip1{
+    margin-top: 50px;
+    color: yellow;
+    font-size: larger;
+}
+
+#tip2{
+    margin-top: 100px;
+    color: yellow;
+    font-size: larger;
+}
+#image1{
+    margin-left: 500px;
+    width: 30%;
+    height:30%;
+}
+#image2{
+    margin-left:500px;
+    width: 30%;
+    height:30%;
+    margin-bottom: 10px;
+}
+#table{
+    width:100%;
+    height:100%;
+    background-color: rgb(218, 176, 161);
+    border-style: double;
+    color:rgb(7, 13, 72);
+
+}
+#faq{
+    font-size: x-large;
+    width: 100%;
+    height: 100%;
+    color:rgb(218, 176, 161) ;
+    background-color:purple ;
+}
+#youtube{
+    margin-left: 300px;
+    margin-top: 200px;
+}
+#madeby{
+    margin-top: -20px;
+    margin-left: 600px;
+    font-size: xx-large;
+    font-family: 'Dongle', sans-serif;
+
+    
+}
+#name{
+    margin-left: 580px;
+    font-size: xx-large;
+    font-family: 'Dongle', sans-serif;
+
+}
+#entryno{
+    margin-left: 600px;
+    font-size: xx-large;
+    font-family: 'Dongle', sans-serif;
+    
+    
+}
+#lastpage{
+    background-color:rgb(189, 97, 69);
+}
